@@ -4,5 +4,5 @@ npm i
 #安装 supervisor, webpack
 npm i supervisor webpack -g
 #运行
-npm run start
+npm run start \n
 webpack -w
